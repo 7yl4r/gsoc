@@ -23,7 +23,7 @@ _What types of skills does the prospective contributor need?_
 
 Difficulty:
 
-_Identify the difficulty of the project._
+_Estimate the difficulty of the project in terms of magnitude (10 person-hours, 100 person-hours, 1000 person-hours, etc)_
 
 Mentor(s):
 
